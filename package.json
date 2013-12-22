@@ -1,0 +1,52 @@
+{
+  "name": "apx-winston",
+  "version": "0.1.0",
+  "description": "Winston Logger initializer for APX API server",
+  "homepage": "https://github.com/snailjs/apx-winston",
+  "bugs": "https://github.com/snailjs/apx-winston/issues",
+  "authors": [
+    {
+      "name": "Bryan Tong",
+      "email": "contact@nullivex.com",
+      "homepage": "https://github.com/nullivex"
+    },
+    {
+      "name": "Tony Butler",
+      "email": "spudz76@gmail.com",
+      "homepage": "https://github.com/spudz76"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snailjs/apx-winston.git"
+  },
+  "keywords": [
+    "winston",
+    "logger",
+    "log",
+    "initializer",
+    "apx"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "winston": "~0.7.2",
+    "colors": "~0.6.2",
+    "winston-memory": "~0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-mocha-test": "~0.8.1",
+    "grunt-project-update": "~0.2.2",
+    "mocha": "~1.15.1",
+    "chai": "~1.8.1",
+    "jshint-stylish": "~0.1.3",
+    "apx": "snailjs/apx#master"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
