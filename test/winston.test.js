@@ -7,12 +7,11 @@ describe('InitializerWinston',function(){
     apx.once('ready',function(){
       done()
     })
-    apx.setup({
+    apx.start({
       sysLogLevel: 2,
       testing: true,
       cwd: __dirname
     })
-    apx.start()
   })
   it('should setup the log object',function(done){
     var init = require('../lib/winston')
