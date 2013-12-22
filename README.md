@@ -13,10 +13,9 @@ $ npm install apx apx-winston
 
 ```js
 var apx = require('apx')
-apx.setup({
+apx.start({
   initializers: 'apx-winston'
 })
-apx.start()
 ```
 
 ## Configuration
