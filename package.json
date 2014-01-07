@@ -1,6 +1,6 @@
 {
   "name": "apx-winston",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Winston Logger initializer for APX API server",
   "homepage": "https://github.com/snailjs/apx-winston",
   "bugs": "https://github.com/snailjs/apx-winston/issues",

@@ -32,5 +32,8 @@ Array of instantiated transports to be configured with Winston.
 
 ## Changelog
 
+### 0.1.1
+* Fixed plugin name
+
 ### 0.1.0
 * Initial release
