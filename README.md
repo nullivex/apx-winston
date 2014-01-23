@@ -1,5 +1,4 @@
-apx-winston [![Build Status](https://travis-ci.org/snailjs/apx-winston.png?branch=master)](https://travis-ci.org/snailjs/apx-winston)
-=======
+# apx-winston [![Build Status](https://travis-ci.org/snailjs/apx-winston.png?branch=master)](https://travis-ci.org/snailjs/apx-winston)
 
 Winston Logger initializer for APX API server
 
