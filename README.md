@@ -1,4 +1,15 @@
-# apx-winston [![Build Status](https://travis-ci.org/snailjs/apx-winston.png?branch=master)](https://travis-ci.org/snailjs/apx-winston)
+# APX Winston
+
+## Kado
+
+STOP AND READ THIS
+
+APX or Apex is no longer maintained and is superseded by Kado.
+
+A new package is available to handle all your JavaScript needs.
+See [kado.org](https://kado.org) for details.
+
+## Summary
 
 Winston Logger initializer for APX API server
 
